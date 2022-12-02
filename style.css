@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Monospace;
+}
+body{
+  background: white;
+  padding: 10vh;
+  margin: 5px;
+}
+h1{
+ text-align: center; 
+}
+.txt_field form{
+  background: linear-gradient(120deg, #00ccff, #b9edef);
+  padding: 20vh;
+  
+}
